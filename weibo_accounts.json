@@ -1,0 +1,20 @@
+{
+  "output_dir": "archive",
+  "max_pages": 10,
+  "monthly_max_pages": 300,
+  "bootstrap_max_pages": 3000,
+  "bootstrap_years": 5,
+  "request_timeout_seconds": 45,
+  "request_retries": 3,
+  "request_delay_seconds": [1.5, 3.5],
+  "accounts": [
+    {
+      "uid": "2492465520",
+      "folder": "刘晓光Savvy"
+    },
+    {
+      "uid": "5659598386",
+      "folder": "王盐Charles"
+    }
+  ]
+}

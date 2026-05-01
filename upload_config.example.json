@@ -1,0 +1,8 @@
+{
+  "enabled": false,
+  "remote": "gdrive",
+  "destination": "微博归档",
+  "mode": "sync",
+  "create_empty_src_dirs": true,
+  "progress": false
+}

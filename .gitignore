@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.env
+.env.*
+.DS_Store
+archive/
+test-output/
+tmp*/
+weibo_secrets.json
+.weibo_browser_profile/
+.playwright-browsers/
+upload_config.json
+.rclone/
+.tools/
